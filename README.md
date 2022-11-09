@@ -30,7 +30,7 @@
  > Since this is just a simple program to demonstrate my growth in C#, there are a few things I did not get to do such as:
  - Drink Class 
  - int age for Guest property so kids could possibly eat free.  Would need to update methods accordingly.
- - Clean up Program class for better readability.
+ - Clean up Program class for better readability and demonstration of Object Oriented Programming.
  
  ## Skills Demonstrated
  - C#
